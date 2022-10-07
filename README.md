@@ -16,7 +16,7 @@ Music and watching films.
 * 🖥️  See my portfolio at [My portfolio](http://my.sparrow.al)
 * ✉️  You can contact me at [velija.zmijan@gmail.com](mailto:velija.zmijan@gmail.com)
 * 🚀  I'm currently working on [Sparrow Web](http://sparrow.al)
-* 🧠  I'm learning Flutter
+* 🧠  I'm learning react native
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  playing basket and reading books
 
